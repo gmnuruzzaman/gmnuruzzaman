@@ -10,9 +10,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=HI+I'M+NURUZZAMAN+;;" alt="Typing SVG" /></a>   
 
 
-    <img src="https://github.com/gmnuruzzaman">
-  </a>
- 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![CYBER](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)]                                                          
@@ -25,7 +22,6 @@
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrMasterOfc&show_icons=true&locale=en&layout=compact" alt="MASTERMIND" /></p>
 
-# Contribution Graph:
 
 
 <p align="center">
@@ -37,16 +33,16 @@
 
 
 
-# Github Streak ☠︎︎
+# Github Streak
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=MrMasterOfc&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://MrMasterOfc.me)
 
 
 
-# My Status☠︎︎
+# My Status
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMasterOfc&show_icons=true&theme=radical)
   
-# My currently working Languages and Tools 
+# My Currently Working Languages And Tools 
 [![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/cyberrajib4040)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
