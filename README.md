@@ -1,5 +1,5 @@
-### Hi there 👋, Hi I'm Nuruzzaman🤭
-#### Web Developer 
+Hi there 👋, Hi I'm Nuruzzaman🤭
+Web Developer 
 I'm New🌚
 
 Skills: VUE JS / REACT / JS / HTML / CSS / NODE.JS
