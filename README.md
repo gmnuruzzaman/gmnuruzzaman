@@ -11,9 +11,8 @@
 
 
 <p align="center">
- <a href="https://github.com/cyberrajib4040">
- <img title="Owner" src="https://img.shields.io/badge/cyberrajib4040-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/cyberrajib4040">
+ <a href="https://github.com/gmnuruzzaman">
+
     <img src="https://img.shields.io/github/followers/cyberrajib4040?style=flat-square&logo=github&color=darkred">
   </a>
  
