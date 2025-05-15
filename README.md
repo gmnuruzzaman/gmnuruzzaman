@@ -10,13 +10,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=HI+I'M+NURUZZAMAN+;;" alt="Typing SVG" /></a>   
 
 
- <a aria-label="CYBER RAJIB" href="https://youtube.com/@islamickchatbot" target="_blank">
-    <img alt="CYBER-RAJIB YT" src="https://img.shields.io/youtube/channel/subscribers/UCDB6GZMdSfsmPN9gqxxqnMQ" target="_blank" />
-  </a>
-
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{cyberrajib4040}/count.svg" alt="cyberrajib4040 :: Visitor's Count" /></p>
-
 <p align="center">
  <a href="https://github.com/cyberrajib4040">
  <img title="Owner" src="https://img.shields.io/badge/cyberrajib4040-darkred?style=flat-square&logo=github&label=owner"></a>
