@@ -89,24 +89,3 @@
   </a>
 </p>
 <a href="https://github.com/MrMasterOfc"><img alt="Abir's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=MrMasterOfc&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-
-# Github Streak
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MrMasterOfc&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://MrMasterOfc.me)
-
-
-
-# My Status
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMasterOfc&show_icons=true&theme=radical)
-  
-# My Currently Working Languages And Tools 
-[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/cyberrajib4040)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# I Like 
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,js,heroku,github,html,vercel,py,kali,github,blender=15)](https://github.com/cyberrajib4040)
-
-
