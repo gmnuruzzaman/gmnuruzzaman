@@ -1,6 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&letterSpacing=High+quality&duration=7000&pause=2000&color=F73030&background=040102&multiline=true&repeat=false&random=true&width=335&lines=WELCOME+TO+MY+GITHUB+ACCOUNT+AND+PROFILE)](https://git.io/typing-svg)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=MrMasterOfc&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://DAXXTEAM.me)
 
 
