@@ -1,6 +1,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=MrMasterOfc&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://DAXXTEAM.me)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrMasterOfc&show_icons=true&locale=en&layout=compact" alt="MASTERMIND" /></p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <h2 align="center" border="0">My Tech Stack</h2>
 
 <br>
