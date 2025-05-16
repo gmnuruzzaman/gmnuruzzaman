@@ -88,4 +88,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrMasterOfc#version3"/>
   </a>
 </p>
-<a href="https://github.com/MrMasterOfc"><img alt="Abir's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=MrMasterOfc&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a 
