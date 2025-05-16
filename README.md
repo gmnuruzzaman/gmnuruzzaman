@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=4000&pause=1000&color=53F761&background=FFFFFF&width=440&height=90&lines=%F0%9D%90%80%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%AE+%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A4%F0%9D%90%AE%F0%9D%90%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=400&letterSpacing=high+quality+&duration=6000&pause=1000&color=40F748&background=31FF2F00&width=188&height=40&lines=%F0%9D%90%80%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%AE+%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A4%F0%9D%90%AE%F0%9D%90%A6;%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A4%F0%9D%90%AE%F0%9D%90%A6+%F0%9D%90%80%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A6;Welcome+To+My;GitHub+Account+;And+Profile)](https://git.io/typing-svg)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
