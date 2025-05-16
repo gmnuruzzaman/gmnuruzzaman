@@ -1,170 +1,62 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100">
-   </p>
-   
-<div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=WELCOME+TO+;;" alt="Typing SVG" /></a> 
-   
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=+MY+PROFILE+EVERYONE+;">
+<img src="https://i.imgur.com/WXQIgMz.jpeg" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> ᑘᒪᒪᗩSᕼ ッ-BOT🫠 - ☆𝐀𝐁𝐇𝐑𝐀𝐍𝐈𝐋☆ 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
+<!-- Github README -->
 
+<p align="center"><img src="https://img.shields.io/badge/I Am ullash ッ   %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+
+</i></b></h3>
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴄʜᴀᴛ ʙᴏᴛ &nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'R+A+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/BAYJID-404-BOYZ"><img width=550 src="https://github-profile-trophy.vercel.app/?username=ULL4SH&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 </p>
-<div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=HI+I'M+NURUZZAMAN+;;" alt="Typing SVG" /></a>   
-
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![CYBER](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)]                                                        
-
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=MrMasterOfc&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://DAXXTEAM.me)
-  
-
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrMasterOfc&show_icons=true&locale=en&layout=compact" alt="MASTERMIND" /></p>
-
-
-
-<p align="center">
-  <a href="https://github.com/MrMasterOfc">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrMasterOfc#version3"/>
-  </a>
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/BAYJID-404-BOYA /count.svg" alt="Visitors">
 </p>
-<a href="https://github.com/MrMasterOfc"><img alt="Abir's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=MrMasterOfc&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
+<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
-# Github Streak
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MrMasterOfc&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://MrMasterOfc.me)
+- ➪ 𝗡𝗔𝗠𝗘      :☆𝐀𝐁𝐇𝐑𝐀𝐍𝐈𝐋☆/ullash ッ  
 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
+- ➪  𝗥𝗘𝗟𝗜𝗚𝗜𝗢𝗡   : 𝗜𝗦𝗟𝗔𝗠
 
-# My Status
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMasterOfc&show_icons=true&theme=radical)
-  
-# My Currently Working Languages And Tools 
-[![My Skills](https://skillicons.dev/icons?i=actix,bash,git,github,gitlab,heroku,html,js,ai,replit,zig,wordpress,webpack,visualstudio,vercel,mongodb,nodejs,openstack,postgres,php,powershell,py,react,raspberrypi,perl,react,vue,nuxtjs,ocaml,flutter&perline=15)](https://github.com/cyberrajib4040)
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- ➪ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡 :- 𝗦𝗧𝗨𝗗𝗬
 
-# I Like 
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,js,heroku,github,html,vercel,py,kali,github,blender=15)](https://github.com/cyberrajib4040)
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<h2 align="center" border="0">My Tech Stack</h2>
+- ➪ 𝗥𝗘𝗟𝗔𝗧𝗜𝗢𝗡𝗦𝗛𝗜𝗣 :- complicated
 
-<br>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<table align="center">
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [আয়'না 一一ꪜ ヽ﹅ヽ丨倫](https://www.facebook.com/ayat.chowdhury.936741?mibextid=ZbWKwL)
 
-<tbody>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
- <tr valign="top">
+- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [personal](https://www.instagram.com/)
 
-<td width="25%" align="center">
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<span>Java</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>MySQL</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>Hibernate</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/hibernate.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>Spring Boot</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
-
-</td>
-
-</tr>
- 
-<tr valign="top">
-
-<td width="25%" align="center">
-
-<span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗖𝗦𝗦𝟯</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-
-</td>
-
-
-<td width="25%" align="center">
-
-<span>𝗚𝗶𝘁</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-
-</td>
-
-</tr>
-
-<tr valign="top">
-
-<td width="25%" align="center">
-
-<span>NodeJS</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>ExpressJS</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>MongoDB</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖SS</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-
-</td>
-
-</tr>
-
-</tbody
+<h3><b><i> Contact me in Touch :</i></b></h3>
+<a href="https://github.com/BAYJID-404-BOYZ"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
+<a href="https://www.facebook.com/ayat.chowdhury.936741?mibextid=ZbWKwL"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+<a href="https://www.instagram.com/mr_bayjid120"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
