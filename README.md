@@ -1,12 +1,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100">
    </p>
+   
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 </i></b></h3>
@@ -19,8 +22,9 @@
 
 
 
-<img src="https://imgur.com/a/vvuoOIh" alt="banner">
-<h1 align="center"><img 
+<img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+  </a> 
+</div>
 
 
 
