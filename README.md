@@ -25,6 +25,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+[![IMG-20250513-195217-658.jpg](https://i.postimg.cc/jjPNDtJ3/IMG-20250513-195217-658.jpg)](https://postimg.cc/FfF1qtp0)
+
+
 
 <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
   </a> 
