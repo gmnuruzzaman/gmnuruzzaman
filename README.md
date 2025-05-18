@@ -1,6 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=19BF1BB4&random=true&width=370&height=80&lines=HI+I'M+NURUZZAMAN)](https://git.io/typing-svg)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=FF0000&background=FFFFFF&height=70&lines=ASSALAM+WALAIKUM+WALAIKUM+ASSALAM;WELCOME+TO+MY+NEW+GITHUB+ACCOUNT;AND+PROFILE+THANKS+FOR+YOU)](https://git.io/typing-svg)
 
 
