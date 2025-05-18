@@ -183,8 +183,4 @@
 
 <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
 
-</td>
-
-</tr>
-
-</tbody <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</td></tr></tbody <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
