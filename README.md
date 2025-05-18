@@ -199,4 +199,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&color=29F72F&width=435&lines=%F0%9F%94%A5LANGUAGES+AND+TOOLS%F0%9F%94%A5+" alt="Typing SVG" /></a>:</h3>
