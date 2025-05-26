@@ -138,49 +138,6 @@
 
 <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 
-</td>
-
-</tr>
-
-<tr valign="top">
-
-<td width="25%" align="center">
-
-<span>NodeJS</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>ExpressJS</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>MongoDB</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖SS</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-
-
-
-</td></tr></tbody <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
