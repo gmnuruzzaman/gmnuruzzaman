@@ -2,6 +2,14 @@
 
 
 
+<img src="https://readme-img.onrender.com/api/banner?username=gmnuruzzaman&template=creative2&bg=light&font=inter" alt="gmnuruzzaman's GitHub Stats" />
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100">
    </p>
